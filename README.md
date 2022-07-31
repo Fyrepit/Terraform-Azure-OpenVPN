@@ -75,7 +75,7 @@ Check if the client VPN file is create. This file can be downloaded to test the 
 
 ### Create additional clients
 
-For creating additonal client, login to vm as root and execute the openvpn-install.sh script under /home/ubuntu 
+For creating additonal client, login to the VM as root and execute the openvpn-install.sh script under /home/ubuntu 
 
   ```
   Login as root
